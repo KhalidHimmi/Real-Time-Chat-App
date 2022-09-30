@@ -1,0 +1,10 @@
+.navbar{
+    color: whitesmoke;
+  }
+body{
+  background: #3b3f43 !important;
+}
+
+a.nav-link{
+  color: white !important;
+}

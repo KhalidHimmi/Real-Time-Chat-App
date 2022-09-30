@@ -1,0 +1,61 @@
+*{
+    color: white;
+}
+img{
+    width: 17rem;
+}
+
+
+#btn-upload {
+    background-color: #131335;
+    color: #adedff;
+    font-weight: bold;
+    border: none;
+    border-radius: 15px;
+    padding: 5px 1.5rem;
+    margin-left: 2rem;
+}
+
+input[type="file"] {
+    display: none;
+}
+
+.custom-file-upload {
+    border: 1px solid #ccc;
+    display: inline-block;
+    padding: 6px 12px;
+    cursor: pointer;
+}
+.prof-pic-alert{
+    background-color: #4CAF50;
+}
+.pass-body-card{
+    display: flex;
+}
+
+.card-b1{
+    width: 16rem;
+    height: 100%;
+    background: #262d34;
+    /* padding: 1rem 2rem; */
+    padding: 1rem 0;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+
+}
+.card-b2{
+    width: 40rem;
+}
+.card-b1 a{
+    padding-left: 1rem;
+}
+.card-b1 a:hover{
+    width: 100%;
+    cursor: pointer;
+    background-color: #38445e;
+    color: white;
+    padding: .5rem 1rem;
+    border-radius: 10px;
+}
